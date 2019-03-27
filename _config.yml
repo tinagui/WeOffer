@@ -11,6 +11,7 @@ url: "" # the base hostname & protocol for your site
 # User setting
 owner: 微Mentor
 email:
+wechat_username:
 facebook_username:
 twitter_username:
 github_username:
